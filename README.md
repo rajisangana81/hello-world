@@ -1,3 +1,3 @@
-# hello-world
-First hello repo
-sample hello project
+# Basic learning close of github  
+
+Basic learing class
